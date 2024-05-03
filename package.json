@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tk93dn/ftm-check-balance.git"
+    "url": "https://github.com/tk93dn/tan-check-balance.git"
   },
   "keywords": [
-    "ftm-check-balance",
+    "tan-check-balance",
     "ethereum",
     "gas",
     "balance",
@@ -21,13 +21,13 @@
   "author": "tk93dn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tk93dn/ftm-check-balance/issues"
+    "url": "https://github.com/tk93dn/tan-check-balance/issues"
   },
-  "homepage": "https://github.com/tk93dn/ftm-check-balance#readme",
+  "homepage": "https://github.com/tk93dn/tan-check-balance#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "web3": "^1.5.2",
-    "tan-gas-convert": "1.0.0"
+    "tan-gas-convert": "1.0.0",
     "infinity-utils": "^1.0.2",
     "run-loop-til-success": "^1.0.1",
     "ttk_library": "^1.2.1",
